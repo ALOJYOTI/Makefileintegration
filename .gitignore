@@ -1,0 +1,5 @@
+# ignore all obj file
+*.o
+
+# ignore executable file
+main
